@@ -1,15 +1,15 @@
 [submodule "0P-Stack"]
 	path = 0P-Stack
-	url = git@github.com:CSCI220/0P-Stack.git
+	url = https://github.com/CSCI220/0P-Stack.git
 [submodule "1P-Sorting"]
 	path = 1P-Sorting
-	url = git@github.com:CSCI220/1P-Sorting.git
+	url = https://github.com/CSCI220/1P-Sorting.git
 [submodule "2P-Hashtable"]
 	path = 2P-Hashtable
-	url = git@github.com:CSCI220/2P-Hashtable.git
+	url = https://github.com/CSCI220/2P-Hashtable.git
 [submodule "3P-Trie"]
 	path = 3P-Trie
-	url = git@github.com:CSCI220/3P-Trie.git
+	url = https://github.com/CSCI220/3P-Trie.git
 [submodule "4P-GraphSearch"]
 	path = 4P-GraphSearch
-	url = git@github.com:CSCI220/4P-GraphSearch.git
+	url = https://github.com/CSCI220/4P-GraphSearch.git
