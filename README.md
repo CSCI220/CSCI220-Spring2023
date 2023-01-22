@@ -1,8 +1,23 @@
 # CSCI220-Spring2023
 
 ## Setup
-- `git clone --recurse-submodules https://github.com/CSCI220/CSCI220-Spring2023.git`
+To download this repository with the projects for this semester, run:
 
-## Update Projects (IGNORE unless told otherwise)
-- `git submodule foreach git pull origin main`
-> This will pull updates from each project's main branch on github into your local folders. If you get a conflict or have trouble with this, come see us in help sessions.
+```bash
+git clone --recurse-submodules https://github.com/CSCI220/CSCI220-Spring2023.git
+```
+
+Alternatively, you can clone them individually. (Listed at https://github.com/orgs/CSCI220/repositories)
+
+## Update Projects
+To pull updates from each project, run: 
+
+```bash
+git submodule foreach git pull origin main
+```
+
+> If you get an error or have trouble with this, come see us in help sessions.
+
+## Links
+- [Development Environment Setup](https://elearning.mines.edu/courses/48454/pages/development-environment-setup)
+- [Programming Projects Workflow](https://elearning.mines.edu/courses/48454/pages/programming-projects-workflow)
